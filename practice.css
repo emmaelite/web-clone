@@ -1,0 +1,100 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    width: auto;
+}
+.container {
+    background-color: rgb(1, 22, 1);
+    height: fit-content;
+    padding: 20px;
+    width: auto;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+    
+}
+.free {
+    color: yellowgreen;
+    background-color: green;
+    width: fit-content;
+    margin-bottom: 10px;
+}
+h1 {
+    color: yellowgreen;
+    margin-bottom: 50px;
+}
+.me {
+    color: yellowgreen;
+}
+.skill {
+    display: flex;
+    gap: 10px;
+    padding: 1px;
+}
+.repost {
+    color: yellowgreen;
+    border: 2px solid yellowgreen;
+    padding: 5px;
+}
+.identify {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    gap: 50px;
+}
+.component {
+    height: 90px;
+    width: 110px;
+    background-color: darkgreen;
+    border-radius: 50%;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 15px;
+    position: relative;
+}
+.build {
+    height: 90px;
+    width: 110px;
+    background-color: darkgreen;
+    border-radius: 50%;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 15px;
+    position: relative;
+}
+p {
+    color: white;
+}
+body {
+    background-image: linear-gradient(to right, wheat, yellow);
+}
+.implement {
+    height: 90px;
+    width: 110px;
+    background-color: darkgreen;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    text-align: center;
+    padding: 50px;
+    position: relative;
+}
+.last {
+    background-color: lightgreen;
+    width: auto;
+    height: 55px;
+    margin-bottom: 0px;
+    margin-top: 45px;
+    
+}
+button {
+    height: 55px;
+    align-content: right;
+    margin-left: 1300px;
+    width: 250px;
+    background-color: rgb(1, 22, 1);
+    border: none;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+}
